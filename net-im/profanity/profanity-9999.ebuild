@@ -13,7 +13,7 @@ HOMEPAGE="http://www.profanity.im/"
 LICENSE="GPL-3+"
 SLOT="0"
 KEYWORDS="amd64"
-IUSE="+gpg -gtk libnotify +otr plugins +themes xscreensaver"
+IUSE="+gpg -gtk libnotify +otr +plugins +themes xscreensaver"
 
 RDEPEND=">=dev-libs/glib-2.26:2
 		|| (
