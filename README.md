@@ -15,5 +15,7 @@ location = /usr/local/portage/profanity
 sync-type = git
 sync-uri = https://github.com/wildente/profanity-overlay.git
 EOF
+
+eix-sync
 ```
 
