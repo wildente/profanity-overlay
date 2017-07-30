@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
+<repositories xmlns="" version="1.0">
+<repo quality="experimental" status="unofficial">
+	<name>profanity</name>
+	<description>Profanity Portage Overlay</description>
+  <homepage>https://github.com/wildente/profanity-overlay</homepage>
+	<owner type="project">
+		<email>wildente@users.noreply.github.com</email>
+		<name>wildente</name>
+	</owner>
+  <source type="git">git://github.com/wildente/profanity-overlay.git</source>
+</repo>
+</repositories>
